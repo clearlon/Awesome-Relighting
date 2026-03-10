@@ -441,6 +441,12 @@ Please refer to [Awesome-Illumination-Estimation](https://github.com/waldenlakes
 
 DiffusionLight-Turbo: Accelerated Light Probes for Free via Single-Pass Chrome Ball Inpainting [paper](https://arxiv.org/pdf/2507.01305) [code](https://github.com/DiffusionLight/DiffusionLight-Turbo) [project](https://diffusionlight.github.io/turbo/) ![GitHub Repo stars](https://img.shields.io/github/stars/DiffusionLight/DiffusionLight-Turbo)   
 
+---
+
+## Acknowledgements
+
+This repository is based on [tandaily/Awesome-Relighting](https://github.com/tandaily/Awesome-Relighting). Special thanks to the original author for curating this comprehensive collection of relighting works.
+
 <!-- 
 ## Star history ✨ 
 
