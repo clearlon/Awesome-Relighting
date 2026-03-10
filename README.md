@@ -12,6 +12,145 @@ Hope you can help with the following:
 
 ## Publications
 
+### Human-Relighting
+Papers focusing on portrait, face, and full-body human relighting.
+
+#### Image
+
+[2019.05] [SIGGRAPH2019] Single Image Portrait Relighting  [paper](https://arxiv.org/pdf/1905.00824)     
+
+[2019.06] [CVPR2020] Learning Physics-guided Face Relighting under Directional Light [paper](https://arxiv.org/pdf/1906.03355)  
+
+[2019.08] [ICCV2019] Deep Single-Image Portrait Relighting [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Deep_Single-Image_Portrait_Relighting_ICCV_2019_paper.pdf) [code](https://github.com/zhhoper/DPR) ![Star](https://img.shields.io/github/stars/zhhoper/DPR.svg?style=social&label=Stars)    
+
+[2020] [SIGGRAPH Asia 2020] Single image portrait relighting via explicit multiple reflectance channel modeling [paper](https://dl.acm.org/doi/pdf/10.1145/3414685.3417824)  
+
+[2021] [SIGGRAPH 2021] Total Relighting: Learning to Relight Portraits for Background Replacement   [paper](https://augmentedperception.github.io/total_relighting/total_relighting_paper.pdf) 
+
+[2021.04] [CVPR2021] Towards High Fidelity Face Relighting with Realistic Shadows [paper](https://arxiv.org/pdf/2104.00825) [project](http://cvlab.cse.msu.edu/project-shadowmask.html) [code](https://github.com/andrewhou1/Shadow-Mask-Face-Relighting)  ![GitHub Repo stars](https://img.shields.io/github/stars/andrewhou1/Shadow-Mask-Face-Relighting)      
+
+[2021.10] [CGF2021] Relighting Humans in the Wild: Monocular Full-Body Human Relighting with Domain Adaptation [paper](https://arxiv.org/pdf/2110.07272) [code](https://github.com/majita06/Relighting_in_the_Wild)  ![GitHub Repo stars](https://img.shields.io/github/stars/majita06/Relighting_in_the_Wild)      
+
+[2022.03] [CVPR2022] Face Relighting with Geometrically Consistent Shadows  [paper](https://arxiv.org/pdf/2203.16681) [project](http://cvlab.cse.msu.edu/project-geomconsshadows.html) [code](https://github.com/andrewhou1/GeomConsistentFR) ![GitHub Repo stars](https://img.shields.io/github/stars/andrewhou1/GeomConsistentFR)   
+
+[2022.07] [ECCV2022] Geometry-aware Single-image Full-body Human Relighting [paper](https://arxiv.org/pdf/2207.04750) [project](https://jcn16.github.io/jcn.github.io/Relighting/) 
+
+[2022.09] [SIGGRAPH Asia 2022] Lumos: Learning to Relight Portrait Images via a Virtual Light Stage and Synthetic-to-Real Adaptation  [paper](https://arxiv.org/pdf/2209.10510)  
+
+[2023.03] [CVPR2023] LightPainter: Interactive Portrait Relighting with Freehand Scribble [paper](https://arxiv.org/pdf/2303.12950) [project](https://yiqunmei.net/lightpt/)  
+
+[2023.04] [ICCV2023] DiFaReli: Diffusion Face Relighting [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ponglertnapakorn_DiFaReli_Diffusion_Face_Relighting_ICCV_2023_paper.pdf) [code](https://github.com/diffusion-face-relighting/difareli_code)  ![GitHub Repo stars](https://img.shields.io/github/stars/diffusion-face-relighting/difareli_code)   
+
+[2023.12] [CVPR2024] Relightful Harmonization: Lighting-aware Portrait Background Replacement   [paper](https://arxiv.org/pdf/2312.06886)   
+
+[2024.02] [CVPR2024] SwitchLight: Co-design of Physics-driven Architecture and Pre-training Framework for Human Portrait Relighting  [paper](https://arxiv.org/pdf/2402.18848)   
+
+[2024.03] [CVPR2024] Holo-Relighting: Controllable Volumetric Portrait Relighting from a Single Image [paper](https://arxiv.org/pdf/2403.09632)  [project](https://yiqunmei.net/holo-web/)   
+
+[2024.03] [CVPR2024] LightIt: Illumination Modeling and Control for Diffusion Models   [paper](https://arxiv.org/pdf/2403.10615)           
+
+[2024.07] [SIGGRAPH2024] Lite2Relight: 3D-aware Single Image Portrait Relighting [paper](https://arxiv.org/pdf/2407.10487)   
+
+[2024.10] [TOG2024] Generative Portrait Shadow Removal [paper](https://arxiv.org/pdf/2410.05525) 
+
+[2024.11] All-frequency Full-body Human Image Relighting  [paper](https://arxiv.org/pdf/2411.00356)     
+
+[2024.12] [AAAI2025] Text2Relight: Creative Portrait Relighting with Text Guidance [paper](https://arxiv.org/pdf/2412.13734)           
+
+[2025.01] [CVPR2025] SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces [paper](https://arxiv.org/pdf/2501.09756)     
+
+[2025.01] DiFaReli++: Diffusion Face Relighting with Consistent Cast Shadows [paper](https://arxiv.org/pdf/2304.09479)  [code](https://github.com/diffusion-face-relighting/difareli_code)  ![GitHub Repo stars](https://img.shields.io/github/stars/diffusion-face-relighting/difareli_code)   
+
+[2025.03] [CVPR2025] GroomLight: Hybrid Inverse Rendering for Relightable Human Hair Appearance Modeling [paper](https://arxiv.org/pdf/2503.10597) [project](https://syntec-research.github.io/GroomLight/)   
+
+[2025.04] [CVPR2025] Comprehensive Relighting: Generalizable and Consistent Monocular Human Relighting and Harmonization [paper](https://arxiv.org/pdf/2504.03011) [project](https://junyingw.github.io/paper/relighting/index.html) 
+
+[2025.08] TransLight: Image-Guided Customized Lighting Control with Generative Decoupling [paper](https://arxiv.org/pdf/2508.14814)
+
+[2025.09] PractiLight: Practical Light Control Using Foundational Diffusion Models [paper](https://arxiv.org/pdf/2509.01837)
+
+#### Video
+
+[2021.04] [ICCV2021] Neural Video Portrait Relighting in Real-time via Consistency Modeling [paper](https://arxiv.org/pdf/2104.00484) [project](https://zhanglongwen.com/projects/nvpr/) [code](https://github.com/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling) ![GitHub Repo stars](https://img.shields.io/github/stars/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling)       
+
+[2023.11] [ECCV2024] Personalized Video Relighting With an At-Home Light Stage [paper](https://arxiv.org/pdf/2311.08843) [project](https://chedgekorea.github.io/relighting/)
+
+[2024.04] [CVPR workshop: EDGE2024] EdgeRelight360: Text-Conditioned 360-Degree HDR Image Generation for Real-Time On-Device Video Portrait Relighting [paper](https://arxiv.org/pdf/2404.09918)    
+
+[2024.10] LumiSculpt: A Consistency Lighting Control Network for Video Generation [paper](https://arxiv.org/pdf/2410.22979)  
+
+[2025.01] RelightVid: Temporal-Consistent Diffusion Model for Video Relighting [paper](https://arxiv.org/pdf/2501.16330)  [project](https://aleafy.github.io/relightvid/) [code](https://github.com/Aleafy/RelightVid)  ![GitHub Repo stars](https://img.shields.io/github/stars/Aleafy/RelightVid)   
+
+[2025.02] [CVPR2025] High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model  [paper](https://arxiv.org/pdf/2502.19894) [code](https://github.com/MingtaoGuo/Relightable-Portrait-Animation)  ![GitHub Repo stars](https://img.shields.io/github/stars/MingtaoGuo/Relightable-Portrait-Animation)   
+
+[2025.03] [CVPR2025] Lux Post Facto: Learning Portrait Performance Relighting with Conditional Video Diffusion and a Hybrid Dataset  [paper](https://arxiv.org/pdf/2503.14485) [project](https://yiqunmei.net/lux-web/)          
+
+[2025.03] Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance [paper](https://arxiv.org/pdf/2503.22225) [project](https://anonymous-hub1127.github.io/FYM.github.io/)     
+
+[2025.06] [NeurIPS2025] UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting [paper](https://arxiv.org/pdf/2506.15673) [project](https://research.nvidia.com/labs/toronto-ai/UniRelight/)  
+
+[2025.06] TC-Light: Temporally Consistent Relighting for Dynamic Long Videos [paper](https://arxiv.org/pdf/2506.18904) [project](https://dekuliutesla.github.io/tclight/) [code](https://github.com/Linketic/TC-Light) ![GitHub Repo stars](https://img.shields.io/github/stars/Linketic/TC-Light)
+
+[2025.08] Lumen: Consistent Video Relighting and Harmonious Background Replacement with Video Generative Models [paper](https://arxiv.org/pdf/2508.12945)
+
+[2025.11] [NeurIPS2025] UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback [paper](https://arxiv.org/pdf/2511.01678) [code](https://github.com/alibaba-damo-academy/Lumos-Custom) ![GitHub Repo stars](https://img.shields.io/github/stars/alibaba-damo-academy/Lumos-Custom)      
+
+#### 3D (Face/Avatar/Human)
+
+[2023.06] [EGSR23] Learning Projective Shadow Textures for Neural Rendering of Human Cast Shadows from Silhouettes [paper](https://diglib.eg.org/handle/10.2312/sr20231125) [dataset](https://www.cvssp.org/data/crh)
+
+[2023.05] [TOG2023] NeRFFaceLighting: Implicit and Disentangled Face Lighting Representation Leveraging Generative Prior in Neural Radiance Fields [paper](https://dl.acm.org/doi/pdf/10.1145/3597300) [project](http://www.geometrylearning.com/NeRFFaceLighting/) [code](https://github.com/IGLICT/NeRFFaceLighting) ![GitHub Repo stars](https://img.shields.io/github/stars/IGLICT/NeRFFaceLighting)    
+
+[2023.08] [CVPR2024] Relightable and Animatable Neural Avatar from Sparse-View Video [paper](https://arxiv.org/pdf/2308.07903) [project](https://zju3dv.github.io/relightable_avatar) [code](https://github.com/zju3dv/RelightableAvatar) ![GitHub Repo stars](https://img.shields.io/github/stars/zju3dv/RelightableAvatar)    
+
+[2023.12] [AAAI2024] Relightable and Animatable Neural Avatars from Videos [paper](https://arxiv.org/pdf/2312.12877) [project](https://wenbin-lin.github.io/RelightableAvatar-page/) [code](https://github.com/wenbin-lin/RelightableAvatar) ![GitHub Repo stars](https://img.shields.io/github/stars/wenbin-lin/RelightableAvatar)    
+
+[2023.12] [ECCV2024] Relightable Neural Actor with Intrinsic Decomposition and Pose Control [paper](https://arxiv.org/pdf/2312.11587) [project](https://vcai.mpi-inf.mpg.de/projects/RNA/) [code](https://github.com/dluvizon/relightable-neural-actor) ![GitHub Repo stars](https://img.shields.io/github/stars/dluvizon/relightable-neural-actor)     
+
+[2023.12] [CVPR2024] Relightable Gaussian Codec Avatars [paper](https://arxiv.org/pdf/2312.03704.pdf) [project](https://shunsukesaito.github.io/rgca/) [code](https://github.com/facebookresearch/goliath) ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/goliath)    
+
+[2024.03] [CVPR2024] Holo-Relighting: Controllable Volumetric Portrait Relighting from a Single Image [paper](https://arxiv.org/pdf/2403.09632)     
+
+[2024.05] [CVPR2024] Real-time 3D-aware Portrait Video Relighting  [paper](https://arxiv.org/pdf/2410.18355)   [code](https://github.com/GhostCai/PortraitRelighting)  ![GitHub Repo stars](https://img.shields.io/github/stars/GhostCai/PortraitRelighting)        
+
+[2024.06] [NeurIPS2024] IllumiNeRF: 3D Relighting Without Inverse Rendering [paper](https://arxiv.org/pdf/2406.06527)  [project](https://illuminerf.github.io/) [code](https://github.com/illuminerf/illuminerf_results) ![GitHub Repo stars](https://img.shields.io/github/stars/illuminerf/illuminerf_results)       
+
+[2024.07] [EGSR2024] Learning Self-Shadowing for Clothed Human Bodies [paper](https://diglib.eg.org/handle/10.2312/sr20241159) [code](https://gitlab.surrey.ac.uk/fe00135/self-shadowing)
+
+[2024.07] [SIGGRAPH2024] Lite2Relight: 3D-aware Single Image Portrait Relighting [paper](https://arxiv.org/pdf/2407.10487)         
+
+[2024.09] Instant Facial Gaussians Translator for Relightable and Interactable Facial Rendering [paper](https://arxiv.org/pdf/2409.07441) [project](https://dafei-qin.github.io/TransGS.github.io/)     
+
+[2024.10] [SIGGRAPH Asia 2024] DifFRelight: Diffusion-Based Facial Performance Relighting [paper](https://arxiv.org/pdf/2410.08188)  
+
+[2024.10] [SIGGRAPH Asia 2024] URAvatar: Universal Relightable Gaussian Codec Avatars [paper](https://arxiv.org/pdf/2410.24223) [project](https://junxuan-li.github.io/urgca-website/)       
+
+[2025.01] [SIGGRAPH2025] Relightable Full-Body Gaussian Codec Avatars [paper](https://arxiv.org/pdf/2412.05278) [project](https://neuralbodies.github.io/RFGCA/)   
+
+[2025.02] BEAM: Bridging Physically-based Rendering and Gaussian Modeling for Relightable Volumetric Video [paper](https://arxiv.org/pdf/2502.08297)    
+
+[2025.03] [CVPR2025] HRAvatar: High-Quality and Relightable Gaussian Head Avatar [paper](https://arxiv.org/pdf/2503.08224) [project](https://eastbeanzhang.github.io/HRAvatar/) [code](https://github.com/Pixel-Talk/HRAvatar) ![GitHub Repo stars](https://img.shields.io/github/stars/Pixel-Talk/HRAvatar)    
+
+[2025.03] [ICME2025] Fast and Physically-based Neural Explicit Surface for Relightable Human Avatars [paper](https://arxiv.org/pdf/2503.18408)     
+
+[2025.04] LightHeadEd: Relightable & Editable Head Avatars from a Smartphone [paper](https://arxiv.org/pdf/2504.09671)   
+
+[2025.04] Beyond Reconstruction: A Physics-Based Neural Deferred Shader for Photo-realistic Rendering [paper](https://arxiv.org/pdf/2504.12273) 
+
+[2025.04] DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting [paper](https://arxiv.org/pdf/2504.10486) [project](https://jzr99.github.io/DNF-Avatar/) [code](https://github.com/jzr99/DNF-Avatar) ![GitHub Repo stars](https://img.shields.io/github/stars/jzr99/DNF-Avatar)     
+
+[2025.05] Total-Editing: Head Avatar with Editable Appearance, Motion, and Lighting [paper](https://export.arxiv.org/pdf/2505.20582) 
+
+[2025.05] Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis [paper](https://arxiv.org/pdf/2505.21502) [project](https://sypj-98.github.io/grgs/)   
+
+[2025.06] [NeurIPS2025] BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading [paper](https://arxiv.org/pdf/2506.06271) [project](https://jonathsch.github.io/becominglit/)     
+
+[2025.07] [SIGGRAPH2025] GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis [paper](https://orca.cardiff.ac.uk/id/eprint/178123/1/paper.pdf)  
+
+[ICCV2025] HumanOLAT: A Large-Scale Dataset for Full-Body Human Relighting and Novel-View Synthesis
+
+[2025.12] [ACM MM2025] Relightable and Dynamic Gaussian Avatar Reconstruction from Monocular Video [paper](https://arxiv.org/pdf/2512.09335)  
+
 ## Survey
 [CGF2021] Deep Neural Models for Illumination Estimation and Relighting: A Survey [paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.14283)  
 
