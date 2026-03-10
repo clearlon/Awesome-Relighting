@@ -69,6 +69,14 @@ Papers focusing on portrait, face, and full-body human relighting.
 
 [2025.09] PractiLight: Practical Light Control Using Foundational Diffusion Models [paper](https://arxiv.org/pdf/2509.01837)
 
+[2025.10] [CVPR2025] RealPortrait: A Diffusion-Based Approach to Realistic Portrait Generation with High Fidelity and Face Quality [paper](https://arxiv.org/pdf/2505.20650)
+
+[2025.11] [NeurIPS2025] UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback [paper](https://arxiv.org/pdf/2511.01678) [code](https://github.com/alibaba-damo-academy/Lumos-Custom) ![GitHub Repo stars](https://img.shields.io/github/stars/alibaba-damo-academy/Lumos-Custom)
+
+[2025.11] DreamLight: Towards Harmonious and Consistent Image Relighting [paper](https://arxiv.org/pdf/2506.14549) [code](https://github.com/yongliu20/DreamLight) ![GitHub Repo stars](https://img.shields.io/github/stars/yongliu20/DreamLight)
+
+[2025.12] [CVPR2026] RelightAnything: Lighting-Aware 3D Scene Reconstruction for Object Insertion and Relighting [paper](https://arxiv.org/pdf/2506.03744) [project](https://len-li.github.io/relight-anything-web/) [code](https://github.com/len-li/relight-anything) ![GitHub Repo stars](https://img.shields.io/github/stars/len-li/relight-anything)
+
 #### Video
 
 [2021.04] [ICCV2021] Neural Video Portrait Relighting in Real-time via Consistency Modeling [paper](https://arxiv.org/pdf/2104.00484) [project](https://zhanglongwen.com/projects/nvpr/) [code](https://github.com/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling) ![GitHub Repo stars](https://img.shields.io/github/stars/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling)       
@@ -94,6 +102,8 @@ Papers focusing on portrait, face, and full-body human relighting.
 [2025.08] Lumen: Consistent Video Relighting and Harmonious Background Replacement with Video Generative Models [paper](https://arxiv.org/pdf/2508.12945)
 
 [2025.11] [NeurIPS2025] UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback [paper](https://arxiv.org/pdf/2511.01678) [code](https://github.com/alibaba-damo-academy/Lumos-Custom) ![GitHub Repo stars](https://img.shields.io/github/stars/alibaba-damo-academy/Lumos-Custom)      
+
+[2025.12] Lumen: Consistent Video Relighting and Harmonious Background Replacement with Video Generative Models [paper](https://arxiv.org/pdf/2508.12945)
 
 #### 3D (Face/Avatar/Human)
 
@@ -143,13 +153,21 @@ Papers focusing on portrait, face, and full-body human relighting.
 
 [2025.05] Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis [paper](https://arxiv.org/pdf/2505.21502) [project](https://sypj-98.github.io/grgs/)   
 
+[2025.05] [SIGGRAPH2025] ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions [paper](https://arxiv.org/abs/2501.09756) [project](https://github.com/DisneResearch/scaffoldavatar)
+
 [2025.06] [NeurIPS2025] BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading [paper](https://arxiv.org/pdf/2506.06271) [project](https://jonathsch.github.io/becominglit/)     
 
 [2025.07] [SIGGRAPH2025] GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis [paper](https://orca.cardiff.ac.uk/id/eprint/178123/1/paper.pdf)  
 
+[2025.07] StreamME: Simplify 3D Gaussian Avatar within Live Stream [paper](https://arxiv.org/abs/2507.17079)
+
 [ICCV2025] HumanOLAT: A Large-Scale Dataset for Full-Body Human Relighting and Novel-View Synthesis
 
 [2025.12] [ACM MM2025] Relightable and Dynamic Gaussian Avatar Reconstruction from Monocular Video [paper](https://arxiv.org/pdf/2512.09335)  
+
+[2026.01] RelightAnyone: A Generalized Relightable 3D Gaussian Head Model [paper](https://arxiv.org/pdf/2506.03172) [project](https://github.com/DerekBradley/relightanyone)
+
+[2026.02] FastGHA: Generalized Few-Shot 3D Gaussian Head Avatars with Real-Time Animation [paper](https://arxiv.org/pdf/2506.08136) [project](https://github.com/DerekBradley/fastgha)
 
 ## Survey
 [CGF2021] Deep Neural Models for Illumination Estimation and Relighting: A Survey [paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.14283)  
